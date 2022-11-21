@@ -621,6 +621,9 @@ section {
   line-height: 2.5;
   color: #666;
 }
+.contact{
+  background-color: black;
+}
 
 .contact .icons-container {
   display: -ms-grid;
